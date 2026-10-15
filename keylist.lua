@@ -5,7 +5,7 @@
 return {
     ["stoph"] = {
         type = "VIP",
-        expiry = "2026-10-12",
+        expiry = "2026-10-19",
         valid = true,
         max_devices = 2,
         SLOT = "1"
