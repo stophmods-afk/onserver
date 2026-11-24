@@ -1,11 +1,3 @@
-local ENetRole = import("ENetRole")
-local EPawnState = import("EPawnState")
-local GameplayData = require("GameLua.GameCore.Data.GameplayData")
-local KismetMathLibrary = import("KismetMathLibrary")
-local GameplayStatics = import("GameplayStatics")
-local InGameMarkTools = require("GameLua.Mod.BaseMod.Common.InGameMarkTools")
-local GamePlayTools = require("GameLua.Mod.BaseMod.Common.GamePlayTools")
-
 
 --   TGOWNER7 4.6 — COMPLETE BYPASS SYSTEM
 
